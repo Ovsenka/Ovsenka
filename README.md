@@ -1,5 +1,5 @@
 - Hi there, I’m @Ovsenka
-- I’m interested in Python, Java, C#, SQL
+- I’m interested in Python, Java, C#, SQL, Docker, Git
 - 🌱 I’m currently learning django, flask/Python
 📫 Email: pushin162@gmail.com
 
