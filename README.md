@@ -1,6 +1,6 @@
-Hi there, I’m @Ovsenka
-I’m interested in Python, Java, C#, SQL
-🌱 I’m currently learning django, flask/Python
+- Hi there, I’m @Ovsenka
+- I’m interested in Python, Java, C#, SQL
+- 🌱 I’m currently learning django, flask/Python
 📫 Email: pushin162@gmail.com
 
 <!---
