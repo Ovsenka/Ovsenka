@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Ovsenka/" target="_blank">Dmitry</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student from Russia, Saint-Petersburg 🇷🇺</h3>
+# Hi there, I'm [Dmitry](https://github.com/Ovsenka/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Computer science student from Russia, Saint-Petersburg 🇷🇺
+
 - Hi there, I’m @Ovsenka
 - Studying in Saint-Petersburg
 - I’m interested in Python, Java, C#, SQL, Docker, Git
