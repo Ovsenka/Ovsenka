@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Ovsenka/" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/Ovsenka/" target="_blank">Dmitry</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from Russia, Saint-Petersburg 🇷🇺</h3>
 - Hi there, I’m @Ovsenka
