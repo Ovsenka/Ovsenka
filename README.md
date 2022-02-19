@@ -1,6 +1,8 @@
 # Hi there, I'm [Dmitry](https://github.com/Ovsenka/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ### Computer science student from Russia, Saint-Petersburg 🇷🇺
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ovsenka&theme=omni&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 - Hi there, I’m @Ovsenka
 - Studying in Saint-Petersburg
 - I’m interested in Python, Java, C#, SQL, Docker, Git
