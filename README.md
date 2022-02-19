@@ -1,4 +1,4 @@
-# Hi there, I'm [Dmitry](https://github.com/Ovsenka/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm [Dmitry](https://github.com/Ovsenka/) 
 ### Computer science student from Russia, Saint-Petersburg 🇷🇺
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ovsenka&theme=omni&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
