@@ -8,6 +8,7 @@
 - I’m interested in Python, Java, C#, SQL, Docker, Git
 - 🌱 I’m currently learning django, flask/Python
 - 📫 Email: pushin162@gmail.com
+- Telegram: @from_human_import_brain
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!---
