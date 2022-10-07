@@ -6,7 +6,7 @@
 - Hi there, I’m @Ovsenka
 - Studying in Saint-Petersburg
 - I’m interested in Python, Java, SQL, Docker, Git
-- 🌱 I’m currently learning flask/Python and Java, Assembly Language
+- 🌱 I’m currently learning flask/Python and Assembly Language
 - 📫 Email: pushin162@gmail.com
 - Telegram: @from_human_import_brain
 
