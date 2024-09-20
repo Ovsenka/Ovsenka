@@ -5,10 +5,10 @@
 
 - 👋 Hello there, I’m @Ovsenka
 - 🎓 Studying in Saint-Petersburg
-- 🎯 I’m interested in Python, Java, SQL, Docker, Git
-- 🌱 I’m currently learning flask/Python and Assembly Language
+- 🎯 I’m interested in Backend development
+- 🌱 I’m currently learning Java
 - 📫 Email: pushin162@gmail.com
-- 📱 Telegram: @from_human_import_brain
+- 📱 Telegram: @SystemMemory
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!---
